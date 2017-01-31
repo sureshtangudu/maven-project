@@ -12,7 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<mule.version>3.8.0</mule.version>
+		<mule.version>3.8.2</mule.version>
 		<mule.tools.version>1.2</mule.tools.version>
 		<derby.version>10.12.1.1</derby.version>
 		<activemq.version>5.13.3</activemq.version>
@@ -25,9 +25,9 @@
     <version>2.0</version>
     <configuration>
         <deploymentType>cloudhub</deploymentType>
-        <muleVersion>3.7.3</muleVersion>
-        <username>yourUsername</username>
-        <password>yourPassword</password>
+        <muleVersion>3.8.2</muleVersion>
+        <username>sureshtanguu</username>
+        <password>Suresh74</password>
 	 <workerType>Micro</workerType>
         <redeploy>true</redeploy>
         <environment>Production</environment>
